@@ -26,7 +26,7 @@ Input Panel: On the left-hand side of the web interface, users can find an input
 ---
 
 ## Getting Started
-o review our work, you can either watch recorded videos or clone the entire project folder. Ensure you have Google Chrome Driver installed on your desktop, then click 'Web.py' and run the application.
+To review our work, you can either watch recorded videos or clone the entire project folder. Ensure you have Google Chrome Driver installed on your desktop, then click 'Web.py' and run the application.
 
 ```bash
 # Example installation steps
