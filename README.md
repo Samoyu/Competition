@@ -11,9 +11,9 @@ Scrape reviews from Google Maps and swiftly create visual representations of res
 
 ## Techniques
 
-Selenium - scrape comments in real time
-Python - data cleaning, preprocessing and do NLP related techniques
-Pytorch - fine-tune RoberTa model
+Selenium - scrape comments in real time\n
+Python - data cleaning, preprocessing and do NLP related techniques\n
+Pytorch - fine-tune RoberTa model\n
 Streamlit - Bulid an interactive web
 
 ---
