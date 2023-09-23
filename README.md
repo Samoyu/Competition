@@ -30,4 +30,4 @@ To review our work, you can either watch recorded videos or clone the entire pro
 
 ```bash
 # Example installation steps
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/Samoyu/NLP-project.git
