@@ -9,7 +9,7 @@
 
 Scrape reviews from Google Maps and swiftly create visual representations of restaurant feedback. 
 
-## Why did you choose these technologies?
+## Techniques
 
 Selenium - scrape comments in real time
 Python - data cleaning, preprocessing and do NLP related techniques
@@ -18,17 +18,16 @@ Streamlit - Bulid an interactive web
 
 ---
 
-## Screenshots or Demo
+## Screenshots and Demo
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+<img width="1440" alt="截圖 2023-09-23 下午4 50 54" src="https://github.com/Samoyu/NLP-project/assets/137998372/a96554a3-7827-447e-ab99-a1581e4b58aa">
+<img width="1440" alt="截圖 2023-09-23 下午4 51 31" src="https://github.com/Samoyu/NLP-project/assets/137998372/61e7b02e-4638-4af5-a400-4e229da7bf8d">
 
-[Watch Demo Video](demo_video_url)
 
 ---
 
 ## Getting Started
-Clone all things in the file and install google chrome driver on your desktop, after that click Web.py and run.
+o review our work, you can either watch recorded videos or clone the entire project folder. Ensure you have Google Chrome Driver installed on your desktop, then click 'Web.py' and run the application.
 
 ```bash
 # Example installation steps
