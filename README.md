@@ -1,5 +1,6 @@
 # Restaurant Hunter
 Help you find most suitable restaurant.
+![4487757](https://github.com/Samoyu/NLP-project/assets/137998372/c1134d66-e25b-4b20-b6fd-e7c37dd5523f)
 
 ---
 
@@ -7,12 +8,13 @@ Help you find most suitable restaurant.
 
 Scrape reviews from Google Maps and swiftly create visual representations of restaurant feedback. 
 
-### Why did you choose these technologies?
+## Why did you choose these technologies?
 
 Selenium - scrape comments in real time
 Python - data cleaning, preprocessing and do NLP related techniques
 Pytorch - fine-tune RoberTa model
 Streamlit - Bulid an interactive web
+
 ---
 
 ## Screenshots or Demo
